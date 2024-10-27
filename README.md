@@ -31,10 +31,11 @@ Through this project, you will gain familiarity with:
 
 ## Compilation
 
+I added a main function and already linked it with ft_printf to test it and compare
+it with printf().
+
 To compile the `ft_printf` library, use the following command in the terminal:
 
 ```bash
 make
 
-I added a main function and already linked it with ft_printf to test it and compare
-it with printf().
